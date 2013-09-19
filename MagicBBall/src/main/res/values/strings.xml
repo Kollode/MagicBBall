@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Magic B Ball</string>
+    <string name="question">Für Berit einkaufen?</string>
+    <string name="yes">Ja!</string>
+    <string name="no">Nein!</string>
+
+</resources>
